@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Calculator</string>
+    <string name="history_title">Calculation History</string>
+    <string name="history_empty">No calculations yet</string>
+    <string name="history_empty_desc">Completed calculations will appear here. Tap any item to reuse the result.</string>
+    <string name="clear_history">Clear History</string>
+    <string name="copied_to_clipboard">Copied to clipboard</string>
+    <string name="mode_scientific">Scientific Mode</string>
+    <string name="mode_basic">Basic Mode</string>
+    <string name="angle_deg">DEG</string>
+    <string name="angle_rad">RAD</string>
+    <string name="error_generic">Error</string>
+    <string name="cd_history">View calculation history</string>
+    <string name="cd_toggle_scientific">Toggle scientific mode</string>
+    <string name="cd_toggle_angle">Toggle radians and degrees</string>
+    <string name="cd_delete_digit">Delete last digit</string>
+</resources>
